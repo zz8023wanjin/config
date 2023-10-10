@@ -1,0 +1,22 @@
+{
+  "name": "@rain-star/commitlint-config",
+  "version": "0.0.1",
+  "description": "this is a commitlint config",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zz8023wanjin/config"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "commitlint",
+    "config"
+  ],
+  "author": "rain-star",
+  "license": "ISC"
+}
