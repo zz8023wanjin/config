@@ -3,9 +3,6 @@
   "version": "0.0.1",
   "description": "this is a commitlint config",
   "main": "index.js",
-  "files": [
-    "index.js"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/zz8023wanjin/config"

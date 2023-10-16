@@ -19,6 +19,9 @@ importers:
       '@rain-star/commitlint-config':
         specifier: workspace:*
         version: link:packages/commitlint
+      '@rain-star/tsconfig':
+        specifier: workspace:*
+        version: link:packages/tsconfig
       bumpp:
         specifier: ^9.2.0
         version: 9.2.0
@@ -48,6 +51,8 @@ importers:
         version: 0.34.5
 
   packages/commitlint: {}
+
+  packages/tsconfig: {}
 
 packages:
 

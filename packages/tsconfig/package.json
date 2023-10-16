@@ -1,0 +1,14 @@
+{
+  "name": "@rain-star/tsconfig",
+  "version": "0.0.1",
+  "description": "commonly used config that typescript",
+  "files": [
+    "tsconfig.base.json"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
