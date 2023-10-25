@@ -29,9 +29,9 @@ jobs:
         run: pnpm install --no-frozen-lockfile
 
       - name: Build
-        run: pnpm run build
+        run: pnpm -r --filter "./packages/*" build
 
       - name: Publish to NPM
-        run: pnpm publish --access public --no-git-checks
+        run: pnpm -r --filter "./packages/*" publish --access public --no-git-checks
         env:
-          NODE_AUTH_TOKEN: ${{secrets.npm_token}}
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
