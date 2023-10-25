@@ -1,6 +1,12 @@
 name: Create Release
 
-on: workflow_dispatch
+permissions:
+  contents: write
+
+on:
+  push:
+    tags:
+      - 'v*'
 
 jobs:
   build:
