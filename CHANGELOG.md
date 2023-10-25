@@ -1,3 +1,7 @@
+## [0.0.4](https://github.com/hemengke1997/ts-template/compare/v0.0.3...v0.0.4) (2023-10-25)
+
+
+
 ## [0.0.3](https://github.com/hemengke1997/ts-template/compare/v0.0.2...v0.0.3) (2023-10-25)
 
 

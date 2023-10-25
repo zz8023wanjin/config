@@ -1,6 +1,6 @@
 {
   "name": "ts-template",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "packageManager": "pnpm@8.7.6",
   "description": "a template for typescript project or plugin",
   "keywords": [
