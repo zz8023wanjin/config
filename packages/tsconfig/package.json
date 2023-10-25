@@ -1,6 +1,6 @@
 {
   "name": "@rain-star/tsconfig",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "commonly used config that typescript",
   "files": [
     "tsconfig.base.json"

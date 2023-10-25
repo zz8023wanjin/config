@@ -1,6 +1,6 @@
 {
-  "name": "eslint",
-  "version": "1.0.0",
+  "name": "@rain-star/eslint-config",
+  "version": "0.0.4",
   "description": "",
   "type": "module",
   "main": "index.js",
