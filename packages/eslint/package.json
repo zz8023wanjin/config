@@ -9,8 +9,9 @@
     "import": "./dist/index.mjs"
   },
   "scripts": {
+    "dev": "tsup index.ts --watch",
     "build": "tsup index.ts",
-    "eslint": "eslint ./playground/index.ts --fix"
+    "lint": "eslint ./playground/index.ts --fix"
   },
   "keywords": [],
   "author": "",

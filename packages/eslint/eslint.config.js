@@ -1,3 +1,7 @@
-import { typescript } from './dist/index.cjs'
+import { defineConfig } from './dist/index.cjs'
 
-export default typescript
+const config = defineConfig()
+
+console.log('config', config)
+
+export default config
