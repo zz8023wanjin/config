@@ -1,3 +1,17 @@
+## [0.0.4](https://github.com/hemengke1997/ts-template/compare/v0.0.5...v0.0.4) (2023-10-27)
+
+
+
+## [0.0.5](https://github.com/hemengke1997/ts-template/compare/v0.0.4...v0.0.5) (2023-10-27)
+
+
+### Features
+
+* presets ([2151681](https://github.com/hemengke1997/ts-template/commit/2151681ec55984d87202f25586eb5d9e72bfc241))
+* revise package json ([14ec9ad](https://github.com/hemengke1997/ts-template/commit/14ec9adb774954f210edfd6772dd7df72f990ce8))
+
+
+
 ## [0.0.4](https://github.com/hemengke1997/ts-template/compare/v0.0.3...v0.0.4) (2023-10-25)
 
 
