@@ -1,3 +1,16 @@
+## [0.0.13](https://github.com/zz8023wanjin/config/compare/v0.0.12...v0.0.13) (2023-10-27)
+
+
+### Features
+
+* add eslint typescipt rules ([3d3a29c](https://github.com/zz8023wanjin/config/commit/3d3a29c55c149c39868953a900ea07aa4b61419e))
+
+
+
+## [0.0.12](https://github.com/zz8023wanjin/config/compare/v0.0.11...v0.0.12) (2023-10-27)
+
+
+
 ## [0.0.11](https://github.com/zz8023wanjin/config/compare/v0.0.10...v0.0.11) (2023-10-27)
 
 
