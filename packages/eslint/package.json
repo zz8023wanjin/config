@@ -3,14 +3,14 @@
   "version": "0.0.5",
   "description": "",
   "type": "module",
-  "main": "index.js",
+  "main": "./dist/index.cjs",
   "files": [
     "dist/",
     "README.md"
   ],
   "exports": {
-    "require": "./dist/index.js",
-    "import": "./dist/index.mjs"
+    "require": "./dist/index.cjs",
+    "import": "./dist/index.js"
   },
   "scripts": {
     "dev": "tsup index.ts --watch",
