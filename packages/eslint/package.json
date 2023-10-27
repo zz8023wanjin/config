@@ -4,6 +4,10 @@
   "description": "",
   "type": "module",
   "main": "index.js",
+  "files": [
+    "dist/",
+    "README.md"
+  ],
   "exports": {
     "require": "./dist/index.js",
     "import": "./dist/index.mjs"
