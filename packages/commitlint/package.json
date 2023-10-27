@@ -1,6 +1,6 @@
 {
   "name": "@rain-star/commitlint-config",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "this is a commitlint config",
   "main": "index.js",
   "repository": {
