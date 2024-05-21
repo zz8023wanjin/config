@@ -1,6 +1,6 @@
 {
   "name": "config",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "description": "a template for typescript project or plugin",
   "keywords": [
     "any config"
