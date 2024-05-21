@@ -1,5 +1,5 @@
 import type { FlatESLintConfigItem } from 'eslint-define-config'
-import { pluginReact, pluginReactHooks, pluginTypeScript } from '../plugin'
+import { pluginReact, pluginReactHooks, pluginTypeScript } from '../core/plugin'
 
 export const react: FlatESLintConfigItem[] = [
   {

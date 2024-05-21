@@ -1,3 +1,3 @@
 export * from './configs'
 
-export * from './presets'
+export * from './core/presets'

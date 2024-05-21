@@ -1,7 +1,6 @@
 {
   "name": "config",
   "version": "0.0.14",
-  "packageManager": "pnpm@8.7.6",
   "description": "a template for typescript project or plugin",
   "keywords": [
     "any config"
@@ -28,8 +27,8 @@
     }
   },
   "scripts": {
-    "dev": "tsup --watch",
-    "build": "tsup",
+    "dev": "pnpm -r run dev",
+    "build": "pnpm -r run build",
     "test": "vitest",
     "preinstall": "npx only-allow pnpm",
     "lint": "eslint .",

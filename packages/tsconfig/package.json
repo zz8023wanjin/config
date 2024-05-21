@@ -5,6 +5,7 @@
   "files": [
     "tsconfig.base.json"
   ],
+  "main": "tsconfig.base.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

@@ -1,5 +1,5 @@
 import type { FlatESLintConfigItem } from 'eslint-define-config'
-import { parserTypeScript, pluginTypeScript } from '../plugin'
+import { parserTypeScript, pluginTypeScript } from '../core/plugin'
 
 export const typescript: FlatESLintConfigItem[] = [
   {
@@ -18,6 +18,7 @@ export const typescript: FlatESLintConfigItem[] = [
       '@typescript-eslint/no-explicit-any': 'off',
       '@typescript-eslint/no-var-requires': 'off',
       '@typescript-eslint/no-unused-vars': 'warn',
+      '@typescript-eslint/no-non-null-assertion': 'off',
     },
   },
 ]

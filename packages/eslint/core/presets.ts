@@ -1,5 +1,5 @@
 import type { FlatESLintConfigItem } from 'eslint-define-config'
-import { typescript, react } from './configs'
+import { typescript, react } from '../configs'
 
 type frame = 'react' | 'typescript'
 

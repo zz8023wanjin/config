@@ -1,0 +1,5 @@
+{
+  "extends": "@rain-star/tsconfig/tsconfig.base",
+  "include": ["src"],
+  "references": [{ "path": "./tsconfig.node.json" }]
+}
